@@ -1,0 +1,51 @@
+<div id="bottom">
+			<div id="top">
+				<span id="h1">
+					<h1>Jathin R</h1>
+				</span>
+				<img src="jathin.jpg" width="70" height="100">
+				<span id="info">
+					<p>jathinr96@gmail.com<br>
+								9048954545<br>		
+					linkdin.com/in/jathinr</p>
+				</span>
+			</div>
+			<span id="left">
+				<h4>EDUCATION</h4>
+					<ul>
+						<li>
+							<p><b> B tech Electrical and Electronics</b><br>Govt College of Engineering Kannur<br>2014-2018
+							</p>
+						</li>
+						<li>
+							<p><b> Higher Secondary</b><br>Govt FHSS Cheruvathur<br>2012-2014
+							</p>
+						</li>
+					</ul>
+					<h4>WORK EXPERIENCE</h4>
+					<ul>
+						<li>
+							<p>Software Developer<br>Mitsogo Pvt Ltd<br>07/18-02/19</p>
+						</li>
+					</ul>
+					</span>
+			<span id="right">
+				<h4>SKILLS</h4>
+				<ul id="skills"> 
+					<li>Android-studio</li> 
+					<li>C</li> 
+					<li>Java</li> 
+					<li>Javascript</li> 
+					<li>Python</li>  
+					<li>Testing</li> 
+					<li>Django</li> 
+					<li>Django-REST</li> 
+					<li>ember-js</li>
+				</ul>
+				<h4>ORGANISATIONS</h4>
+				<ul>
+					<li><p>IEEE SB GCEK<br>Trusurer</p></li>
+					<li><p>Robotics interest group at gce kannur<br>Mentor</p></li>
+				</ul>
+			</span>
+		</div>
